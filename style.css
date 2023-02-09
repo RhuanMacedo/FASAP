@@ -123,3 +123,25 @@ main {
     border-bottom-left-radius: 10px;  /* faz com que a borda da parte de baixo da esqueda e direita ficam curvardas*/
 
 }
+
+#container {
+    background-size: 100% 100%;
+    position: relative;
+    height: 500px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+#conteudo {
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    position: absolute;
+    height: 500px;
+    width: 970px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
