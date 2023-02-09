@@ -1,4 +1,4 @@
-@charset "UTF-8";
+ @charset "UTF-8";
 
 * {
     margin: 0px;
@@ -124,6 +124,7 @@ main {
 
 }
 
+<<<<<<< HEAD
 #container {
     background-size: 100% 100%;
     position: relative;
@@ -145,3 +146,11 @@ main {
 
 }
 
+=======
+
+/* ------------------ SLIDESHOW ------------------ */
+main div img {
+
+    width: 100%;
+}
+>>>>>>> 089b3e3b33a8996333e897166198cc1f83a234cd
