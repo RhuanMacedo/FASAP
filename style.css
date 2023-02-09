@@ -124,7 +124,9 @@ main {
 
 }
 
-<<<<<<< HEAD
+/* ------------------ SLIDESHOW ------------------ */
+
+
 #container {
     background-size: 100% 100%;
     position: relative;
@@ -135,7 +137,7 @@ main {
 }
 
 #conteudo {
-    background-color: aliceblue;
+    background-image: url(imagens/imagem01.jpg);
     background-size: 100% 100%;
     position: absolute;
     height: 500px;
@@ -145,12 +147,3 @@ main {
     transform: translate(-50%, -50%);
 
 }
-
-=======
-
-/* ------------------ SLIDESHOW ------------------ */
-main div img {
-
-    width: 100%;
-}
->>>>>>> 089b3e3b33a8996333e897166198cc1f83a234cd
